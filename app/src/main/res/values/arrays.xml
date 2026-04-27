@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="board_styles">
+        <item>Классический</item>
+        <item>Деревянный</item>
+        <item>Мраморный</item>
+        <item>Темный</item>
+    </string-array>
+
+    <string-array name="board_styles_values">
+        <item>classic</item>
+        <item>wood</item>
+        <item>marble</item>
+        <item>dark</item>
+    </string-array>
+</resources>

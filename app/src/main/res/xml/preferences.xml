@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="Внешний вид">
+
+        <ListPreference
+            android:key="board_style"
+            android:title="Стиль доски"
+            android:entries="@array/board_styles"
+            android:entryValues="@array/board_styles_values"
+            android:defaultValue="classic"
+            android:summary="%s" />
+
+        <EditTextPreference
+            android:key="board_light_color"
+            android:title="Светлые клетки"
+            android:defaultValue="#F0D9B5"
+            android:summary="%s" />
+
+        <EditTextPreference
+            android:key="board_dark_color"
+            android:title="Темные клетки"
+            android:defaultValue="#B58863"
+            android:summary="%s" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="Настройки игры">
+
+        <SwitchPreferenceCompat
+            android:key="vibration"
+            android:title="Вибрация"
+            android:defaultValue="true" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

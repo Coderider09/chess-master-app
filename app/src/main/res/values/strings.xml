@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Номи барнома -->
+    <string name="app_name">ШоҳмотУстод</string>
+
+    <!-- Реҷаҳои бозӣ -->
+    <string name="play_with_bot">Бозӣ бо бот</string>
+    <string name="two_players">Бозии дунафра (Локалӣ)</string>
+    <string name="bluetooth_multiplayer">Bluetooth Мультиплеер</string>
+    <string name="host_game">Сохтани бозӣ</string>
+    <string name="join_game">Пайваст шудан</string>
+    <string name="search_devices">Ҷустуҷӯи дастгоҳҳо</string>
+
+    <!-- Ҳолатҳои бозӣ -->
+    <string name="white_turn">Навбати Сафедҳо</string>
+    <string name="black_turn">Навбати Сиёҳҳо</string>
+    <string name="bot_thinking">Бот фикр мекунад...</string>
+    <string name="connecting">Пайвастшавӣ...</string>
+    <string name="connected">Пайваст шуд!</string>
+    <string name="connection_failed">Хатогӣ дар пайвастшавӣ</string>
+    <string name="waiting_for_opponent">Интизори рақиб...</string>
+    <string name="opponent_turn">Навбати рақиб</string>
+    <string name="your_turn">Навбати шумо</string>
+
+    <!-- Тугмаҳо -->
+    <string name="new_game">Бозии нав</string>
+    <string name="back_to_menu">Ба меню</string>
+    <string name="resign">Таслим шудан</string>
+    <string name="offer_draw">Пешниҳоди баробарӣ</string>
+    <string name="close">Пӯшидан</string>
+    <string name="accept">Қабул</string>
+    <string name="reject">Рад кардан</string>
+    <string name="exit">Баромадан</string>
+    <string name="cancel">Бекор кардан</string>
+
+    <!-- Сатҳҳои мураккабӣ -->
+    <string name="beginner">Мубтадӣ</string>
+    <string name="amateur">Ҳаваскор</string>
+    <string name="expert">Эксперт</string>
+    <string name="master">Устод</string>
+    <string name="grandmaster">Гроссмейстер</string>
+
+    <string name="beginner_desc">Барои навкорон</string>
+    <string name="amateur_desc">Бозингари миёна</string>
+    <string name="expert_desc">Рақиби пурқувват</string>
+    <string name="master_desc">Сатҳи касбӣ</string>
+    <string name="grandmaster_desc">Шикастнопазир</string>
+
+    <!-- Танзимот -->
+    <string name="settings">Танзимот</string>
+    <string name="appearance">Намуди зоҳирӣ</string>
+    <string name="board_theme">Мавзӯи тахта</string>
+    <string name="vibration">Ларзиш</string>
+    <string name="sound_effects">Садоҳои бозӣ</string>
+    <string name="show_hints">Нишон додани маслиҳатҳо</string>
+    <string name="game_options">Танзимоти бозӣ</string>
+    <string name="coordinates">Нишон додани координатҳо</string>
+    <string name="last_move_highlight">Нишон додани ҳаракати охирин</string>
+    <string name="reset_settings">Барқарор кардани танзимот</string>
+    <string name="reset_confirm">Оё шумо мехоҳед ҳамаи танзимотро барқарор кунед?</string>
+    <string name="theme_classic">Классикӣ</string>
+    <string name="theme_wood">Чӯбӣ</string>
+    <string name="theme_marble">Мармарӣ</string>
+    <string name="theme_dark">Торик</string>
+
+    <!-- Натиҷаҳои бозӣ -->
+    <string name="game_over">Бозӣ тамом шуд</string>
+    <string name="you_win">Шумо ғолиб шудед!</string>
+    <string name="you_lose">Шумо мағлуб шудед!</string>
+    <string name="check">Шоҳ!</string>
+    <string name="checkmate">Шоҳу мат!</string>
+    <string name="stalemate">Пат (Баробарӣ)</string>
+    <string name="draw">Баробарӣ!</string>
+
+    <!-- Диалогҳо -->
+    <string name="exit_confirm">Оё шумо мехоҳед аз бозӣ бароед?</string>
+    <string name="resign_confirm">Оё шумо боварӣ доред, ки таслим мешавед?</string>
+
+    <!-- Справочник -->
+    <string name="info_title">Дастури бозӣ ва Маълумот</string>
+    <string name="info_content">ҚОИДАҲОИ БОЗӢ:\n\n1. Шоҳмот бозии стратегӣ барои ду нафар аст. Мақсад — мот кардани шоҳи рақиб.\n\n2. Bluetooth Мультиплеер:\n   - Ҳарду дастгоҳ бояд Bluetooth-ро фаъол кунанд.\n   - Яке аз бозингарон "Сохтани бозӣ"-ро пахш мекунад.\n   - Бозингари дигар "Пайваст шудан"-ро пахш карда, номи дастгоҳро интихоб мекунад.\n   - Хост (созанда) бо сафедҳо ва пайвастшуда бо сиёҳҳо бозӣ мекунанд.\n\n3. Бозӣ бо Бот: Шумо метавонед 5 сатҳи мураккабиро интихоб кунед.\n\n4. Танзимот: Шумо метавонед рангҳои тахта ва муҳраҳоро иваз кунед.\n\n------------------------------\nDeveloper: Mallaev Murtazokhon</string>
+</resources>

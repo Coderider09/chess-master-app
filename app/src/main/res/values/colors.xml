@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Основные цвета -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Основные цвета приложения -->
+    <color name="primary">#1a1a2e</color>
+    <color name="primary_dark">#0f0c29</color>
+    <color name="primary_light">#24243e</color>
+    <color name="accent">#e94560</color>
+    <color name="accent_dark">#c62a47</color>
+    <color name="accent_light">#ff6b81</color>
+
+    <!-- Цвета уровней -->
+    <color name="level_beginner">#4CAF50</color>
+    <color name="level_amateur">#2196F3</color>
+    <color name="level_expert">#FF9800</color>
+    <color name="level_master">#9C27B0</color>
+    <color name="level_grandmaster">#F44336</color>
+
+    <!-- Текст -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#b8c6db</color>
+    <color name="text_dark">#1a1a2e</color>
+    <color name="text_gold">#ffd700</color>
+
+    <!-- Шахматные цвета -->
+    <color name="board_light">#ecd9b4</color>
+    <color name="board_dark">#b58863</color>
+
+    <!-- Цвета выделения -->
+    <color name="selected_cell">#80e94560</color>
+    <color name="possible_move">#804CAF50</color>
+    <color name="possible_capture">#80F44336</color>
+    <color name="check">#FFF44336</color>
+    <color name="last_move">#80FFD700</color>
+
+    <!-- Статусы -->
+    <color name="victory">#4CAF50</color>
+</resources>
